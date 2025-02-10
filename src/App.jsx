@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-      <h1> this is my ec2 server</h1>
-      <h2>new</h2>
+      <h1> Hii there, How are you??</h1>
+      <h2>Sahaj</h2>
     </>
   )
 }
